@@ -23,6 +23,10 @@
     {
       "id": "linear",
       "marketplace": "bb-community"
+    },
+    {
+      "id": "genui",
+      "marketplace": "bb-community"
     }
   ]
 }
